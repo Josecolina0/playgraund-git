@@ -1,0 +1,12 @@
+main {
+    padding: 99px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    background-color: white ;
+    background-position: center;
+    justify-content: center;
+    align-items: center;
+}

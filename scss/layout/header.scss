@@ -1,0 +1,59 @@
+header {
+    background-color: #cf4747 ;
+    background-image: url(../assets/images/Waffles\ al\ aire-2.png);
+}
+
+nav {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.img-index {
+    width: 100px;
+    padding: 0px 10px 0px 10px;
+    margin: 0px 30px 0px 30px;
+    transform: scale(1.9);
+    transition: 1s ease;
+}
+
+.img-index:hover {
+    transform: scale(2.1);
+    transition: 1s ease;
+}
+
+.nav-bar a {
+    font-family: "Radio Canada Big", sans-serif;
+    font-optical-sizing: auto;
+    -weight: weight;
+    font-style: normal;
+    text-decoration: none;
+    color: white;
+}
+
+
+nav ul {
+    display: flex;
+    list-style: none;
+    gap: 50px;
+    margin: 0px 60px 0px 0px;
+}
+.nav-bar a {
+    padding: 5px;
+    border-radius: 20px;
+}
+
+
+.shopping:hover  {
+    color: black;
+    background-color: white;
+    background-image: linear-gradient(to right, #cf4747, white);
+}
+
+.location:hover {
+    color: black;
+    background-color: white;
+    background-image: linear-gradient(to right, #cf4747, white);
+
+}
