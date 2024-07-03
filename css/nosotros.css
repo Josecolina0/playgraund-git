@@ -55,20 +55,32 @@ nav ul {
     border-radius: 20px;
 }
 
+.contacto:hover {
+    color: black;
+    background-color: white;
+    background-image: linear-gradient(to right, #cf4747, white);
+}
+
 .shopping:hover  {
     color: black;
     background-color: white;
+    background-image: linear-gradient(to right, #cf4747, white);
+
 }
 
-.location:hover {
+.nosotros:hover {
     color: black;
     background-color: white;
+    background-image: linear-gradient(to right, #cf4747, white);
+
 }
 
 /* termino el nav */
 
 section {
     margin: 100px;
+    padding: 10px;
+    background-color: #cf4747;
 }
 
 .container-location {
@@ -80,6 +92,10 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.title_location {
+    width: 300px;
 }
 
 /* termino la ubicación */

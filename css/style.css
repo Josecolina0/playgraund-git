@@ -55,6 +55,11 @@ nav ul {
     border-radius: 20px;
 }
 
+.contacto:hover {
+    color: black;
+    background-color: white;
+    background-image: linear-gradient(to right, #cf4747, white);
+}
 
 .shopping:hover  {
     color: black;
@@ -62,7 +67,7 @@ nav ul {
     background-image: linear-gradient(to right, #cf4747, white);
 }
 
-.location:hover {
+.nosotros:hover {
     color: black;
     background-color: white;
     background-image: linear-gradient(to right, #cf4747, white);
