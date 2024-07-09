@@ -76,6 +76,7 @@ nav ul {
 
 /* termino el nav */
 section{
+<<<<<<< HEAD
     margin: 0px 200px ;
     padding: 50px;
 
@@ -83,6 +84,11 @@ h1 {
     font-family: "Mukta", sans-serif;
     font-weight: 200;
     font-style: normal;
+=======
+    padding: 50px;
+
+h1 {
+>>>>>>> b13620149d8b530f2269e33e2d116417e842ba89
     display: flex;
     justify-content: center;
     align-items: center;
@@ -100,6 +106,7 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
+<<<<<<< HEAD
 }
     svg {
         max-width: 50px;
@@ -107,4 +114,13 @@ p {
     }
 
 
+=======
+
+    svg {
+        width: 50px;
+        height: auto;
+    }
+
+}
+>>>>>>> b13620149d8b530f2269e33e2d116417e842ba89
 
